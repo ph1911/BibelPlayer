@@ -1,0 +1,1 @@
+BibelPlayer für die Versammlung
